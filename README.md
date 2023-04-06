@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">Aspiring front end developer based in Poland. Beside programing, I'm also interested in music production</h3>
 
-- 🔭 I’m currently working on [To-do list app](https://github.com/aszeliga24/todoapp)
+- 🔭 I’m currently working on [To-do list app](https://github.com/aszeliga24/todoapp) & [gotU](https://github.com/Fight-CIub/GotU)
 
 - 🌱 I’m currently learning & improving skills in **React, Redux**
 
