@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">I am a self-taught aspiring front-end developer based in Poland. I have extensive
-experience in React, Redux, React Router Dom, and React Query. These technologies
-have enabled me to create responsive and intuitive user interfaces that deliver a
-seamless user experience. Aside from programming, I have a keen interest in music
-production. I find the process of creating music to be both therapeutic and
-creatively fulfilling</h3>
+<h3 align="center">I am a self-taught aspiring front-end developer based in Poland. I have extensive experience in React, Redux, React Router Dom, and React Query. These technologies have enabled me to create responsive and intuitive user interfaces that deliver a seamless user experience. Aside from programming, I have a keen interest in music production. I find the process of creating music to be both therapeutic and creatively fulfilling</h3>
 
 - 🔭 I’m currently working on [To-do list app](https://github.com/aszeliga24/todoapp) & [gotU](https://github.com/Fight-CIub/GotU)
 
